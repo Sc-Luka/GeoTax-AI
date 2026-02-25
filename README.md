@@ -1,7 +1,8 @@
 # 🤖 Luka's LLM
 
 A simple AI Assistant built with Streamlit and RAG.
-
+⚠️ Technical Limitations & Performance Note
+Due to hardware constraints (low GPU VRAM), this project currently uses a 1.8B parameter model.
 ------------------------------------------------------------------------
 
 ## 🚀 Features
@@ -39,7 +40,7 @@ https://infohub.rs.ge/ka
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+## 👨‍💻 Showcase
 
-Luka\
-https://github.com/Sc-Luka
+<img width="1916" height="1030" alt="1" src="https://github.com/user-attachments/assets/b5deae9e-824c-40f5-9ff5-fdfa60148139" />
+
