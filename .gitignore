@@ -1,0 +1,17 @@
+.venv/
+venv/
+env/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+vector_db/
+chroma.sqlite3
+
+.env
+
+.vscode/
+
+.DS_Store
+Thumbs.db

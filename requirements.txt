@@ -1,0 +1,12 @@
+streamlit
+torch --index-url https://download.pytorch.org/whl/cu121
+transformers>=4.40.0
+huggingface-hub<2.0
+langchain-core>=0.3.0,<0.4.0
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+pypdf
+accelerate
